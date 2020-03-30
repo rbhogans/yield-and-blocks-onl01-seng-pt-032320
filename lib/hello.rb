@@ -1,4 +1,4 @@
-leadef hello_t
+def hello_t
 
 end
 
